@@ -21,7 +21,8 @@ This project demonstrates basic input/output operations with Arduino:
 
 ## Wiring Diagram
 
-The project includes a wiring diagram ![Screenshot](wiring.jpg) showing the complete circuit connections.
+The project includes a wiring diagram showing the complete circuit connections.
+![Screenshot](wiring.jpg)
 
 ### Pin Connections
 
